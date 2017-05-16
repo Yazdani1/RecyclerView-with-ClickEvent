@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">RecyclerView-with-ClickEvent</string>
+
+    <string-array name="title">
+        <item>Phone</item>
+        <item>Laptop</item>
+        <item>Phone</item>
+        <item>Laptop</item>
+        <item>Phone</item>
+        <item>Laptop</item>
+        <item>Phone</item>
+        <item>Laptop</item>
+        <item>Phone</item>
+        <item>Laptop</item>
+        <item>Phone</item>
+        <item>Laptop</item>
+        <item>Phone</item>
+        <item>Laptop</item>
+        <item>Phone</item>
+        <item>Laptop</item>
+        <item>Phone</item>
+        <item>Laptop</item>
+        <item>Phone</item>
+        <item>Laptop</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Phone Used</item>
+        <item>Laptop Used</item>
+        <item>Phone Used</item>
+        <item>Laptop Used</item>
+        <item>Phone Used</item>
+        <item>Laptop Used</item>
+        <item>Phone Used</item>
+        <item>Laptop Used</item>
+        <item>Phone Used</item>
+        <item>Laptop Used</item>
+        <item>Phone Used</item>
+        <item>Laptop Used</item>
+        <item>Phone Used</item>
+        <item>Laptop Used</item>
+        <item>Phone Used</item>
+        <item>Laptop Used</item>
+        <item>Phone Used</item>
+        <item>Laptop Used</item>
+        <item>Phone Used</item>
+        <item>Laptop Used</item>
+    </string-array>
+
+    <string-array name="author">
+        <item>Stiv jobs</item>
+        <item>Bil Gates</item>
+        <item>Stiv jobs</item>
+        <item>Bil Gates</item>
+        <item>Stiv jobs</item>
+        <item>Bil Gates</item>
+        <item>Stiv jobs</item>
+        <item>Bil Gates</item>
+        <item>Stiv jobs</item>
+        <item>Bil Gates</item>
+        <item>Stiv jobs</item>
+        <item>Bil Gates</item>
+        <item>Stiv jobs</item>
+        <item>Bil Gates</item>
+        <item>Stiv jobs</item>
+        <item>Bil Gates</item>
+        <item>Stiv jobs</item>
+        <item>Bil Gates</item>
+        <item>Stiv jobs</item>
+        <item>Bil Gates</item>
+    </string-array>
+
+    <string-array name="price">
+        <item>$500</item>
+        <item>$700</item>
+        <item>$500</item>
+        <item>$700</item>
+        <item>$500</item>
+        <item>$700</item>
+        <item>$500</item>
+        <item>$700</item>
+        <item>$500</item>
+        <item>$700</item>
+        <item>$500</item>
+        <item>$700</item>
+        <item>$500</item>
+        <item>$700</item>
+        <item>$500</item>
+        <item>$700</item>
+        <item>$500</item>
+        <item>$700</item>
+        <item>$500</item>
+        <item>$700</item>
+    </string-array>
+
+
+</resources>
